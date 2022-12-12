@@ -6,7 +6,6 @@ public class Main {
         System.out.println("Привет нахуй!");
         System.out.println("Ага!");
         System.out.println("13131313!");
-
-
+        System.out.println("Хуй на");
     }
 }
