@@ -5,5 +5,6 @@ public class Main {
 
         System.out.println("Привет нахуй!");
         System.out.println("Ага!");
+        System.out.println("Хуй на");
     }
 }
